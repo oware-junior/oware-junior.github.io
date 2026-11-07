@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oware-junior.github.io/portfolio/sitemap.xml
